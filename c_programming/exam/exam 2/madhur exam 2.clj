@@ -39,4 +39,14 @@
 (19) If John is twice as old as Mary and Mary is 8 years old, how old is John?
 #ans (c) 16 
 (20) In a family, there are two parents and three children. If the family has exactly 5 members, how many of the members are children?
-#ans (a) 2 
+#ans (a) 2          
+(21)how to use a tag in css and HTML
+#ans 
+(22) WHAT IS THE ANS = TO 212.20 IN C 
+#ANS 
+(23) IN A group OF 100  CAR 50 LIKE CAR AND 22 NOT LIKE 30 LIKE A CAR HOW MANY CAR IS A ?
+#ANS  
+ (24) IN CSS AND HTML WHAT IS THE MAN TAG IN CSS AND HTML 5
+ #ANS 
+ (25) WHAT IS A 5 THING YOU NO ABOUT CSS IN HTML 5
+ #ANS 
