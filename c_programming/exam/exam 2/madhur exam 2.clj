@@ -41,7 +41,7 @@
 (20) In a family, there are two parents and three children. If the family has exactly 5 members, how many of the members are children?
 #ans (a) 2          
 (21)how to use a tag in css and HTML
-#ans 
+#ans ,KHH
 (22) WHAT IS THE ANS = TO 212.20 IN C 
 #ANS 
 (23) IN A group OF 100  CAR 50 LIKE CAR AND 22 NOT LIKE 30 LIKE A CAR HOW MANY CAR IS A ?
